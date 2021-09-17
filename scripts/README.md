@@ -1,5 +1,5 @@
 ## Brief descriptions for python files listed here:
-- precess.py: used to process the original datasets
+- process.py: used to process the original datasets
 - featurization.py: used to provide featurization methods on the chemical compounds 
 - data.py: used to load the processed data
 - layers.py: used to provide basic model layers
